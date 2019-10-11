@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  color: #E0E0E0;
+  font-size: 14px;
+}
+
+*::selection {
+  background-color: white;
+  color: black;
+}
+
+.lino {
+  background-color: #2979ff;
+  width: 0.5px;
+  height: 100%;
+}
+
+#ack {
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+input, textarea {
+	color: white;
+}
